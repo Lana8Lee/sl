@@ -1,0 +1,49 @@
+body {
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: #1A2980;
+  background: -webkit-linear-gradient(to right, #26D0CE, #1A2980);
+  background: linear-gradient(to right, #26D0CE, #1A2980);
+
+}
+
+/* .img-2 {
+  .st0{opacity:0.44;}
+  .st1{fill:url(#SVGID_1_);}
+  .st2{fill:url(#SVGID_2_);}
+  .st3{fill:url(#SVGID_3_);}
+  .st4{fill:url(#SVGID_4_);}
+  .st5{fill:url(#SVGID_5_);}
+  .st6{fill:url(#SVGID_6_);}
+  .st7{fill:url(#SVGID_7_);}
+} */
+
+
+.st0{
+  fill:url(#SVGID_1_);
+}
+.st1{fill:url(#SVGID_2_);}
+.st2{fill:url(#SVGID_3_);}
+.st3{fill:url(#SVGID_4_);}
+.st4{fill:url(#SVGID_5_);}
+.st5{fill:url(#SVGID_6_);}
+.st6{fill:url(#SVGID_7_);}
+.st7{fill:url(#SVGID_8_);}
+.st8{fill:url(#SVGID_9_);}
+.st9{fill:url(#SVGID_10_);}
+.st10{fill:url(#SVGID_11_);}
+.st11{fill:url(#SVGID_12_);}
+.st12{fill:url(#SVGID_13_);}
+.st13{fill:url(#SVGID_14_);}
